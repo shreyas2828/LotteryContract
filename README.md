@@ -1,1 +1,0 @@
-Decentralized Lottery winning App
